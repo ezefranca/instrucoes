@@ -35,6 +35,7 @@ Caros alunos,
 	1. Fazer o [**commit**][ref-commit] de suas modificações.
 	1. Sincronizar ([**push**][ref-push]) seu repositório local com o GitHub.
 	1. Solicitar um [**pull request**][ref-pull-request] com o repositório original.
+	1. Como etapa adicional, caso queira sincronizar seu [**fork**][ref-fork] com o repositório de origem, faça um [***upstream***][ref-upstream]
 
 Eduardo Heredia
 
@@ -44,3 +45,4 @@ Eduardo Heredia
 [ref-commit]: http://gitref.org/basic/#commit
 [ref-push]: http://gitref.org/remotes/#push
 [ref-pull-request]: https://help.github.com/articles/creating-a-pull-request
+[ref-upstream]: https://help.github.com/articles/syncing-a-fork
