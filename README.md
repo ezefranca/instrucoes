@@ -15,12 +15,16 @@ Caros alunos,
 
 	* _d: Difícil.
 	
-* Cada repositório terá um prefixo que permitirá identificar a área principal
-   associada à tarefa, por exemplo:
+* Cada repositório terá um prefixo que permitirá identificar a área principal associada à tarefa, por exemplo:
 
 	* ed: Estruturas de dados;
 	* ap: Algoritmos e programação;
 	* ia: Inteligência articial;
+
+* Tarefas (repositórios):
+
+	* ed_tad_matriz_i
+		* Tarefa simples para que o aluno se familiarize com as ações de **fork** e **pull-request**, assim como a manutenção de um diálogo bi-direcional através das **issues**.
 
 * Para completar cada tarefa, vocês devem:
 
